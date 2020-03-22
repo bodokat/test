@@ -1,0 +1,38 @@
+name: recepies
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  mobx: "^1.0.0"
+  flutter_mobx:
+  
+  moor_flutter:
+  
+  get_it:
+  
+  flutter_form_builder:
+  
+  super_enum:
+  optional:
+    
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  build_runner:
+  
+  moor_generator:
+  mobx_codegen:
+
+flutter:
+  uses-material-design: true
+
